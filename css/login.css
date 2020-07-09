@@ -1,0 +1,29 @@
+#principal{
+    width: 100vw;
+    height: 100vh;
+}
+
+#sectionLeft{
+    /* background-color: green; */
+    width: 75%;
+    padding: 20px 20px 0 20px;
+}
+
+.card{
+    width: 15rem;
+    margin: 20px;
+}
+
+#sectionLogin{
+    /* background-color: lightgoldenrodyellow; */
+    width: 25%;
+}
+
+#sectionLogin article{
+    width: 50%;
+    margin: 10px 0;
+}
+
+#formEmail, #formPassword{
+    width: 100%;
+}

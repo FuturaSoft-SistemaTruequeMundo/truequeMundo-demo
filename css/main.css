@@ -1,0 +1,40 @@
+.container{
+    /* background-color: greenyellow; */
+}
+
+#header{
+    /* background-color: #0069D9; */
+}
+
+#headerTopRight{
+    height: 80px;
+}
+
+#formText{
+    height: 38px;
+}
+
+#headerBottom{
+    /* background-color: lightsalmon; */
+}
+
+#principal{
+    background-color: #F8FAFB;
+}
+
+#sectionPrincipal{
+    padding-top: 20px;
+}
+
+.card{
+    width: 17rem;
+    margin-bottom: 20px;
+}
+
+#footer{
+    width: 100%;
+}
+
+.anchor{
+    width: 100%;
+}
